@@ -3,10 +3,10 @@ RG351P adapter based on BL-M7601NU4 module board
 </br><img src="https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/BL-M7601NU4.jpg" width="300px" />
 
 #### Compatible modules:
-  - **HLK-7601U2**
-  - **BL-R7601MU2**
-  - **RTL8188EUS**
-  - **RL-UM12BS-8188EUS**
+  - **HLK-7601U2** - folder **RTL8188EUS**
+  - **BL-R7601MU2** - folder **RTL8188EUS**
+  - **RTL8188EUS** - folder **RTL8188EUS**
+  - **RL-UM12BS-8188EUS** - folder **RTL8188EUS**
 
 #### Footprints:
 ![Top Footprint](https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/adapter-F_Cu.svg)
@@ -17,4 +17,8 @@ RG351P adapter based on BL-M7601NU4 module board
 
 #### Inside RG351P:
 <img src="https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/soldered.jpg" width="200px" />
+
+#### UPDATES:
+ - Move project file to folder with compatible module name.
+ - Update castelated holes
 
