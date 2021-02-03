@@ -7,10 +7,14 @@ RG351P adapter based on BL-M7601NU4 module board
   - **BL-R7601MU2** - folder **RTL8188EUS**
   - **RTL8188EUS** - folder **RTL8188EUS**
   - **RL-UM12BS-8188EUS** - folder **RTL8188EUS**
+  - [WIP] **BL-R7601MU6** - folder **BL-R7601MU6**
 
-#### Footprints:
+#### Footprints(folder **RTL8188EUS**):
 ![Top Footprint](https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/adapter-F_Cu.svg)
 ![Top Footprint](https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/adapter-B_Cu.svg)
+
+#### Footprints(folder **BL-R7601MU6**):
+[WIP]
 
 #### Photos of prototype PCB:
 <img src="https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/board_top.jpg" width="100px" />    <img src="https://github.com/kuzmapunk/RG351P-Wi-Fi-Adapter/blob/main/images/board_bottom.jpg" width="100px" />
